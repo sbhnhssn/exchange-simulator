@@ -1,0 +1,18 @@
+Start testing: Sep 15 01:41 BST
+----------------------------------------------------------
+1/1 Testing: exchange_tests
+1/1 Test: exchange_tests
+Command: "/home/sbhnhssn1/jane_street_exchange_v2/build/tests"
+Directory: /home/sbhnhssn1/jane_street_exchange_v2/build
+"exchange_tests" start time: Sep 15 01:41 BST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"exchange_tests" end time: Sep 15 01:41 BST
+"exchange_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 01:41 BST
